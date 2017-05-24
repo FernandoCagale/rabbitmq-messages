@@ -1,0 +1,17 @@
+{
+  "name": "rabbitmq-messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send.js",
+  "scripts": {
+    "linter": "semistandard"
+  },
+  "author": "Fernando Cagale <fernando.b.cagale@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.1"
+  },
+  "devDependencies": {
+    "semistandard": "^11.0.0"
+  }
+}
